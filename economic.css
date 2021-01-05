@@ -1,0 +1,173 @@
+.Header{
+    width: 1150px;
+    height: 300px;
+    text-align:center;
+    line-height:25px;
+    font-size:25px;
+    color:#ea0000	;
+    /*font-weight:bold;*/
+    background-color:#fad4e6;
+    left: 1000px;
+    border-radius: 10px;
+    font-family:微軟正黑體 ;
+    border-width:3px;
+    border-style:dashed;
+    border-color:#fd82b5;
+    padding:5px;
+    
+}
+.Headerr{
+    width: 1150px;
+    height: 300px;
+    text-align:left;
+    line-height:25px;
+    font-size:18px;
+    
+    /*font-weight:bold;*/
+    
+    left: 1000px;
+    
+    font-family:微軟正黑體 ;
+    
+    
+   
+   
+    
+}
+.Headercc{
+    width: 1150px;
+    height: 300px;
+    text-align:left;
+    line-height:25px;
+    font-size:18px;
+    
+    /*font-weight:bold;*/
+    
+    left: 1000px;
+    
+    font-family:微軟正黑體 ;
+    
+    
+   
+   
+    
+}
+.Headerbb{
+    width: 1150px;
+    height: 300px;
+    text-align:left;
+    line-height:25px;
+    font-size:18px;
+    
+    /*font-weight:bold;*/
+    
+    left: 1000px;
+    
+    font-family:微軟正黑體 ;
+    
+    
+   
+   
+    
+}
+.Headerb{
+    width: 1150px;
+    height: 300px;
+    text-align:center;
+    line-height:40px;
+    font-size:28px;
+    color:#4d5fad	;
+    /*font-weight:bold;*/
+    background-color:#d1e2f8;
+    left: 1000px;
+    border-radius: 10px;
+    font-family:微軟正黑體 ;
+    border-width:3px;
+    border-style:dashed;
+    border-color:#979efc;
+    padding:5px;
+    
+}
+.Headerc{
+    width: 1150px;
+    height: 300px;
+    text-align:center;
+    line-height:50px;
+    font-size:28px;
+    color:#7a2fac	;
+    /*font-weight:bold;*/
+    background-color:#f0d8fa;
+    left: 1000px;
+    border-radius: 10px;
+    font-family:微軟正黑體 ;
+    border-width:3px;
+    border-style:dashed;
+    border-color:#dfa0fc;
+    padding:5px;
+    
+}
+
+
+
+
+.loginbtnaa {
+    font-size: 43px;
+    background-color:  rgb(219, 105, 175);
+    border-radius: 10px;
+    border: 2.5px solid rgb(219, 105, 175);
+    color: white;
+    width: 40%;
+    height: 165px;
+  }
+  .loginbtna {
+    font-size: 35px;
+    background-color:#f79ac0 ;
+    border-radius: 10px;
+    border: 2.5px solid rgb(250, 99, 192);
+    color: rgb(214, 51, 113);
+    width: 40%;
+    height: 165px;
+  }
+  .loginbtnb {
+    font-size: 35px;
+    background-color:#a9c8f1 ;
+    border-radius: 10px;
+    border: 2.5px solid #7ba7e0;
+    color: rgb(66, 95, 177);
+    width: 40%;
+    height: 165px;
+  }
+  .loginbtnbb {
+    font-size: 43px;
+    background-color:#7ba7e0 ;
+    border-radius: 10px;
+    border: 2.5px solid #7ba7e0;
+    color: white;
+    width: 40%;
+    height: 165px;
+  }
+  .loginbtnc {
+    font-size: 35px;
+    background-color:#dba8f1 ;
+    border-radius: 10px;
+    border: 2.5px solid #a671bd;
+    color: rgb(116, 71, 143);
+    width: 40%;
+    height: 165px;
+  }
+  .loginbtncc {
+    font-size: 43px;
+    background-color:#aa79be ;
+    border-radius: 10px;
+    border: 2.5px solid #aa79be;
+    color: white;
+    width: 40%;
+    height: 165px;
+  }
+
+  .btn {
+    text-align: center;
+    margin: 40px;
+  }
+
+  
